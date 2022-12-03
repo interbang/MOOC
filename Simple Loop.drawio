@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T18:31:07.402Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="iH-qfOv1QBAoa9oieH2Z" version="20.6.0" type="github"><diagram id="2xif9yx2NMRb-jrwSWjx" name="Page-1">5Vnfd5owGP1b+sDjdgQE5bFVuz2snT2enXWPUVLIGggLoWL/+n2BID91dlU6uxcPuUlIcu/9vi+qZk6C9BNHkX/DXEw1Y+CmmjnVDMN2bPiUwCYHLN3JAY8TN4f0EliQZ6zAgUIT4uK4NlAwRgWJ6uCKhSFeiRqGOGfr+rAHRuurRsjDLWCxQrSNfieu8HN0bA1K/DMmnl+srA9UT4CKwQqIfeSydQUyZ5o54YyJ/ClIJ5hK7gpe8nnXO3q3G+M4FIdM+DW+vRH4fuR9u/7KQZm7mzv6wVR7E5viwNiF86sm48JnHgsRnZXoFWdJ6GL51gG0yjFfGIsA1AH8iYXYKDFRIhhAvgio6s3XlAvtPIqCYpbwFd6zf31LJBgQswALvoF5HFMkyFP9/UhZwduO206dMwIrGwPl2rGSTHnWseovEIh7WKg5JePwUNlECWU6vEATtd0nRBN1gAWsKNpKUQpRIBVZ+0TgRYQyqtYQh118P2EucLqf8TaTasKwzkgRnetKSCjIr0RDESVdzNdYeylF9pnbdtiHbfW+fau/hSo4JeK+8vxDvuqjpVrTVL05a2xU459X0jAbUhr9SjlspaDL+BGAJMY8q6LyE0nKWEyycxqDMAmWsrdhASh7kXwEchGlmDKPowA0iDAnsE2Y0eiblx1/SmwPJMXFneFIic5oJrp2ptONPlOdc+apbtRTgDT4P3WuG74HWeAundG076BWH6XKbIbPieUbtfLbrSYdZKNAphhPZGQXsV8RmfssWCbxW9y5jI5U1HXpGp8qE+nGftboTtaAA1Gnh+OYPKNlNkAGg/R6XCZyRIkXwvMKqMoKgSSSwLeyS9URENfNYiqSFslOal1p1jQrCpROGGWysIQslINiwdkjboD1aDyCXnrz/jVqC2Z1CGaeTLDxmSepfpLPcNhv8ilKVSWO3oVOh1QT55WCvi4erBbxkIjQ4wWksCx5LeH6amfJf85zx2gzQwO7OJN5cdFVwLQl2XlfdE37wIuufbJsZf9tUf4/ykvzytRxHei3ujgtvWah285kPf5K1fD0sKMA9+vp4ggVjiYsFCRM8MUBNj7cp03Dt33bCIFOz3Z4+xiqNL+rdcgyOo5zoVn+oJ7X6/JfCXP2Gw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-03T22:45:46.844Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="OVlDRpeSGtL5RpeOigsh" version="20.6.0" type="github">
+  <diagram id="2xif9yx2NMRb-jrwSWjx" name="Page-1">
+    <mxGraphModel dx="696" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q8NMteX7gUFOr226QMQl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q8NMteX7gUFOr226QMQl-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8NMteX7gUFOr226QMQl-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="10" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q8NMteX7gUFOr226QMQl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q8NMteX7gUFOr226QMQl-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8NMteX7gUFOr226QMQl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="q8NMteX7gUFOr226QMQl-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8NMteX7gUFOr226QMQl-4" value="Ask user for a positive number" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q8NMteX7gUFOr226QMQl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q8NMteX7gUFOr226QMQl-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8NMteX7gUFOr226QMQl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q8NMteX7gUFOr226QMQl-7" target="q8NMteX7gUFOr226QMQl-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8NMteX7gUFOr226QMQl-7" value="N &amp;gt; 0" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q8NMteX7gUFOr226QMQl-12" value="N &amp;lt; 0" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="170" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q8NMteX7gUFOr226QMQl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q8NMteX7gUFOr226QMQl-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8NMteX7gUFOr226QMQl-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q8NMteX7gUFOr226QMQl-15" target="q8NMteX7gUFOr226QMQl-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8NMteX7gUFOr226QMQl-15" value="Break!&lt;br&gt;Print “Positive”" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8NMteX7gUFOr226QMQl-16" value="N &amp;gt; 0" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="300" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q8NMteX7gUFOr226QMQl-19" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8NMteX7gUFOr226QMQl-21" value="Continue!" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="230" y="170" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4K0UEyIIQA1tmu0OgwrF-1" value="&lt;span style=&quot;caret-color: rgb(55, 71, 79); color: rgb(55, 71, 79); font-family: &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, monospace; font-size: 13.6px; background-color: rgba(237, 237, 237, 0.5);&quot;&gt;# start&lt;br&gt;num = -1&lt;br&gt;while num &amp;lt; 0:&lt;br&gt;    num = input(&quot;Enter a positive number: &quot;)&lt;br&gt;    num = float(num)&lt;br&gt;print(&quot;positive&quot;)&lt;br&gt;# endV&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="10" width="360" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
